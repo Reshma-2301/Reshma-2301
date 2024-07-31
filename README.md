@@ -1,14 +1,9 @@
 <h1 align="center"> Hi there, I'm Reshma  </h1>
-- 🌱 I’m currently learning DSA .
-- 📫 How to reach me 
 <p align="center">
   <a href="https://www.linkedin.com/in/kumari-reshma-867345226/">LinkedIn</a> -
   <a href="https://x.com/kumarireshmaa">Twitter</a> - 
   <a href="reshmarana857@gmail.com">E-mail</a> -
-  <h6> +91 7858941405 </h6>
 </p> 
-
-- 😄 Pronouns: ...she/her
 
 
 <!---
