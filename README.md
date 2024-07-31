@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Reshma-2301
 - 🌱 I’m currently learning DSA .
 - 📫 How to reach me ...
-- https://www.linkedin.com/in/kumari-reshma-867345226/
-- https://x.com/kumarireshmaa
-- reshmarana857@gmail.com
+- <a href=" https://www.linkedin.com/in/kumari-reshma-867345226/">LinkedIn</a>
+ <a href=" https://x.com/kumarireshmaa">Twitter</a>
+<a href="reshmarana857@gmail.com">E-mail</a>
 - +91 7858941405
 - 😄 Pronouns: ...she/her
 
