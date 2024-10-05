@@ -11,7 +11,7 @@ Reshma-2301/Reshma-2301 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 11px;' align='center'>
 <img src="https://drive.google.com/file/d/1EyF1gceRoBqc1_FtQyFIwVkThrqY3TLP/view?usp=sharing" width="100px" height="100px" />
   <img src="https://drive.google.com/file/d/1IeVL7LUTrD4VNIClIStXWAp7GPUQxwG0/view?usp=sharing" width="100px" height="100px" />
   <img src="https://drive.google.com/file/d/1P7LPT-fL_oFv3cyxmtbTpzv34nq0mzCk/view?usp=sharing" width="100px" height="100px" />
