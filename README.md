@@ -10,12 +10,17 @@
 Reshma-2301/Reshma-2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 11px;' align='center'>
-<img src="https://drive.google.com/file/d/1EyF1gceRoBqc1_FtQyFIwVkThrqY3TLP/view?usp=sharing" width="100px" height="100px" />
-  <img src="https://drive.google.com/file/d/1IeVL7LUTrD4VNIClIStXWAp7GPUQxwG0/view?usp=sharing" width="100px" height="100px" />
-  <img src="https://drive.google.com/file/d/1P7LPT-fL_oFv3cyxmtbTpzv34nq0mzCk/view?usp=sharing" width="100px" height="100px" />
-  <img src="https://drive.google.com/file/d/1bYCIifWGaWliPAvsuoHyUi8-t9RR9j4L/view?usp=sharing" width="100px" height="100px" />
-  <img src="https://drive.google.com/file/d/1VQtEmc7Guk2nZeoN6MWeyHP4DkPT6dxE/view?usp=sharing" width="100px" height="100px" />
-  <img src="https://drive.google.com/file/d/1TALDiSt2cCYS_J0ngcVvc-q7hTDgIKLC/view?usp=sharing" width="100px" height="100px" />
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
 </div>
+</details>
