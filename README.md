@@ -10,17 +10,55 @@
 Reshma-2301/Reshma-2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /></a>
-</div>
+<h2 align="center">🧑‍💻 Open Source Contribution 🤝</h2>
+<br/>
+
+<div align="center">
+        <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
+    <h3>GirlScript Summer of Code (GSSOC'24)</strong>
+      </a>
+    <hr/>
+
+  <details><summary>🪶 Badges from GSSOC'24</summary>
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
+      <br>
+      <strong>Postman</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <br>
+      <strong>Explorer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <br>
+      <strong>Adventurer</strong>
+    </td>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <br>
+      <strong>SummitSeeker</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <br>
+      <strong>Champion</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/Reshma-2301/Reshma-2301/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <br>
+      <strong>Trailblazer</strong>
+    </td>
+  </tr>
+</table>
+<br>
 </details>
